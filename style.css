@@ -80,7 +80,7 @@ section#img01 {
 
 section#img02 {
     background-image: url(imagens/img02.png);
-    background-position: left center;
+    background-position: center center;
 }
 
 section.imagem > p {
