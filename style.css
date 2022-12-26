@@ -29,13 +29,13 @@ header > h1 {
     padding-top: 50px;
     text-transform: uppercase;
     /*font-variant: small-caps; (esse aqui fica legal tbm)*/
-    font-size: 4vw;
+    font-size: 5vw;
 }
 
 header > p {
     padding-bottom: 50px;
     text-transform: uppercase;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 a {
